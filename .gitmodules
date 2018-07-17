@@ -1,1 +1,4 @@
 
+[submodule "loris"]
+	path = loris
+	url = https://github.com/robertahunt/loris
